@@ -82,9 +82,9 @@ This is an **early-stage prototype**, built to prove out the idea and UI first:
 | Name | Role |
 |---|---|
 | Satyendra singh | Head Lead |
-| Shubhi Gupta | Marketing Head |
-| Tejaspreet Singh | Ground Assistant |
-| Tanya Singh | Job Recruiter |
+| Smeer Ahmad | Marketing Head |
+| Ramu | Ground Assistant |
+| Tarun malik | Job Recruiter |
 
 ---
 
@@ -102,8 +102,8 @@ cd Smart_Campus_Food_matcher
 
 <p align="center">
   <a href="https://wa.me/917982147771"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/tarun-Satyendra-9bab21388/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/_Satyendra_200716"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
 </p>
 
 <p align="center"><i>Base landing layout adapted from the "Sarab" template by ThemeWagon, customized for this concept — content is being replaced with original data as the project develops.</i></p>
