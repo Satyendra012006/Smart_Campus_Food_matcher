@@ -7,13 +7,13 @@
 </p>
 
 <p align="center">
-  <a href="https://malik25252007.github.io/Smart_Campus_Food_matcher/">
+  <a href="https://Satyendra25252007.github.io/Smart_Campus_Food_matcher/">
     <img src="https://img.shields.io/badge/🌐_Live_Site-2E7D32?style=for-the-badge&labelColor=F09819" />
   </a>
-  <a href="https://malik25252007.github.io/Smart_Campus_Food_matcher/leaderboard/leaderboard.html">
+  <a href="https://Satyendra25252007.github.io/Smart_Campus_Food_matcher/leaderboard/leaderboard.html">
     <img src="https://img.shields.io/badge/🏆_Donor_Leaderboard-8BC34A?style=for-the-badge&labelColor=2E7D32" />
   </a>
-  <a href="https://malik25252007.github.io/Smart_Campus_Food_matcher/login_webpage/login.html">
+  <a href="https://Satyendra25252007.github.io/Smart_Campus_Food_matcher/login_webpage/login.html">
     <img src="https://img.shields.io/badge/🔐_Login-F09819?style=for-the-badge&labelColor=2E7D32" />
   </a>
 </p>
@@ -81,7 +81,7 @@ This is an **early-stage prototype**, built to prove out the idea and UI first:
 
 | Name | Role |
 |---|---|
-| Tarun Malik | Head Lead |
+| Satyendra singh | Head Lead |
 | Shubhi Gupta | Marketing Head |
 | Tejaspreet Singh | Ground Assistant |
 | Tanya Singh | Job Recruiter |
@@ -91,7 +91,7 @@ This is an **early-stage prototype**, built to prove out the idea and UI first:
 ### ⚙️ Getting Started
 
 ```bash
-git clone https://github.com/MALIK25252007/Smart_Campus_Food_matcher.git
+git clone https://github.com/Satyendra25252007/Smart_Campus_Food_matcher.git
 cd Smart_Campus_Food_matcher
 # open index.html in your browser
 ```
@@ -101,9 +101,9 @@ cd Smart_Campus_Food_matcher
 ### 📬 Contact
 
 <p align="center">
-  <a href="https://wa.me/918279630850"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/tarun-malik-9bab21388/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/_malik_200716"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+  <a href="https://wa.me/917982147771"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/tarun-Satyendra-9bab21388/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/_Satyendra_200716"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
 </p>
 
 <p align="center"><i>Base landing layout adapted from the "Sarab" template by ThemeWagon, customized for this concept — content is being replaced with original data as the project develops.</i></p>
